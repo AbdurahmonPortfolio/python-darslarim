@@ -58,8 +58,7 @@ Uyga vazifalar
 #print(kattasi(1, 5, 3))       
 
     
-#Aylana radiusni qabul qilib uning diametri , perimetri va yuzini lug'at 
-#ko'rinishida qaytaruvchi funksiya yaratish
+
 
 
     
